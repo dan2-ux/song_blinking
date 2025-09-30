@@ -5,7 +5,7 @@ When the button is pressed, the RGB LED begins a programmed sequence of lighting
 These patterns are synchronized with the song’s rhythm and beat, creating a dynamic light show that matches the music.
 
 ## Hardware Required
-- Arduino
+- Arduino Uno R3
 - DFPlayer Mini
 - WS2812B
 - Sound sensor
@@ -39,3 +39,12 @@ These patterns are synchronized with the song’s rhythm and beat, creating a dy
 | **FastLED**             | Controls WS2812B (NeoPixel-style) addressable LEDs                   |
 | **SoftwareSerial**      | Allows serial communication on digital pins (used for DFPlayer Mini) |
 | **DFRobotDFPlayerMini** | Communicates with the DFPlayer Mini MP3 module                       |
+
+## Guidance
+The most complete hardware set up in this project is the DFPlayer Mini as other hardware is good to run without any changes. You should purchase a sd card and sd card reader, those will be used to download you own prefer song (as in this project the selected song was **Tết Đong Đầy by KHOA x Kay Tran x Duck V**. 
+
+Connect the sd card reader into your own computer, then download and store your prefer song within the sd card. Then enter sd card in DFPlayer Mini.
+
+If you prefer to alter this project to make your own rgb led movement based on the song beat, then I suggect you to download free to access software which can differentiate beats in a song. Then change the code accordingly.
+
+
