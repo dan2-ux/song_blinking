@@ -41,7 +41,7 @@ These patterns are synchronized with the song’s rhythm and beat, creating a dy
 | **DFRobotDFPlayerMini** | Communicates with the DFPlayer Mini MP3 module                       |
 
 ## Guidance
-The most complete hardware set up in this project is the DFPlayer Mini as other hardware is good to run without any changes. You should purchase a sd card and sd card reader, those will be used to download you own prefer song (as in this project the selected song was **Tết Đong Đầy by KHOA x Kay Tran x Duck V**. 
+The most complete hardware set up in this project is the DFPlayer Mini as other hardware is good to run without any changes. You should purchase a sd card and sd card reader, those will be used to download you own prefer song (as in this project the selected song was **Tết Đong Đầy remix**. 
 
 Connect the sd card reader into your own computer, then download and store your prefer song within the sd card. Then enter sd card in DFPlayer Mini.
 
